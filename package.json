@@ -1,0 +1,19 @@
+{
+  "name": "election",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "express": "^4.14.0",
+    "request": "^2.78.0",
+    "simple-oauth2": "^1.0.0",
+    "tiny-worker": "^1.1.7"
+  },
+  "engines": {
+    "node": "4.4.4"
+  }
+}
